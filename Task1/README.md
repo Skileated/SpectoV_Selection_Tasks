@@ -48,3 +48,16 @@ Task1/
 ├── DBSCAN vs KMEANS.png          # Output plot
 └── README.md                     # This file
 ```
+
+## 📷 Output Visualization
+
+Below is the comparative clustering result on two datasets using both algorithms:
+
+![KMeans and DBSCAN Comparison](./f58109b8-1b70-4f59-b6af-763478708ce2.png)
+
+- **Top Left**: K-Means on Blobs
+- **Top Right**: DBSCAN on Blobs
+- **Bottom Left**: K-Means on Moons (fails due to shape)
+- **Bottom Right**: DBSCAN on Moons (successfully captures structure)
+
+---
