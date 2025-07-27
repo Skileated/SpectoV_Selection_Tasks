@@ -53,7 +53,7 @@ Task1/
 
 Below is the comparative clustering result on two datasets using both algorithms:
 
-![KMeans and DBSCAN Comparison](./f58109b8-1b70-4f59-b6af-763478708ce2.png)
+![KMeans vs DBSCAN](https://github.com/Skileated/SpectoV_Selection_Tasks/blob/main/Task1/DBSCAN%20vs%20KMEANS.png)
 
 - **Top Left**: K-Means on Blobs
 - **Top Right**: DBSCAN on Blobs
