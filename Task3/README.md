@@ -44,11 +44,11 @@ Given a high-dimensional dataset, the goals are to:
 ## 📁 Files Included
 ```text
 Task3/
-├── Task3.py # Script to run PCA and t-SNE
-├── PCA.png # 2D scatter plot using PCA
-├── t-SNE.png # t-SNE output with default params
+├── Task3.py      # Script to run PCA and t-SNE
+├── PCA.png       # 2D scatter plot using PCA
+├── t-SNE.png     # t-SNE output with default params
 ├── t-SNE_200.png # t-SNE with increased iterations
-└── README.md # This file
+└── README.md     # This file
 ```
 
 ---
