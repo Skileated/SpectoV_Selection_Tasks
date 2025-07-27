@@ -61,3 +61,19 @@ Below is the comparative clustering result on two datasets using both algorithms
 - **Bottom Right**: DBSCAN on Moons (successfully captures structure)
 
 ---
+## 📚 Key Learnings
+
+- K-Means requires manual `k` selection and assumes cluster shapes.
+- DBSCAN automatically detects cluster count and handles noise.
+- Visualizing results is crucial for understanding clustering effectiveness.
+
+---
+
+## ▶️ How to Run
+
+```bash
+python Task1/kmeans_vs_dbscan.py
+```
+
+---
+
