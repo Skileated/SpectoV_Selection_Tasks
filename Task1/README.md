@@ -43,7 +43,7 @@ Given a 2D synthetic dataset with clusters of varying densities and shapes, we a
 
 ```text
 Task1/
-├── kmeans_dbscan_comparison.py   # Main script to run clustering and plots
+├── Task1.py   # Main script to run clustering and plots
 ├── Dataset.png                   # Pre-generated synthetic data 
 ├── DBSCAN vs KMEANS.png          # Output plot
 └── README.md                     # This file
